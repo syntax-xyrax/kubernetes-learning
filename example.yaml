@@ -32,7 +32,7 @@
 apiVersion: v1
 kind: namespace
 metadata:
-  name: example
+  name: bookinfo
 ---
 apiVersion: v1
 kind: Service
